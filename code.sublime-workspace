@@ -1,0 +1,706 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tm",
+				"tm_sec"
+			],
+			[
+				"result",
+				"result1"
+			],
+			[
+				"id",
+				"idstrlist〔variable〕"
+			],
+			[
+				"dat",
+				"datastr〔variable〕"
+			],
+			[
+				"ID",
+				"IDlist〔variable〕"
+			],
+			[
+				"d",
+				"dumps〔function〕"
+			],
+			[
+				"data",
+				"datastr"
+			],
+			[
+				"l",
+				"loads〔function〕"
+			],
+			[
+				"re",
+				"request〔variable〕"
+			],
+			[
+				"json",
+				"jsonstr〔variable〕"
+			],
+			[
+				"termin",
+				"terminal"
+			],
+			[
+				"R",
+				"RLoc"
+			],
+			[
+				"ts",
+				"tsSorted"
+			],
+			[
+				"terminal",
+				"terminals"
+			],
+			[
+				"pm",
+				"pm_noise〔variable〕"
+			],
+			[
+				"num",
+				"numTerminal〔variable〕"
+			],
+			[
+				"res",
+				"resaults〔variable〕"
+			],
+			[
+				"nom",
+				"normal〔module〕"
+			],
+			[
+				"locm",
+				"locms〔argument〕"
+			],
+			[
+				"G",
+				"GpartialGamma"
+			],
+			[
+				"log",
+				"log10"
+			],
+			[
+				"loc",
+				"locms〔variable〕"
+			],
+			[
+				"file",
+				"file2"
+			],
+			[
+				"rean",
+				"read〔function〕"
+			],
+			[
+				"mid",
+				"midVec〔variable〕"
+			],
+			[
+				"sort",
+				"sortedIndex〔variable〕"
+			],
+			[
+				"sor",
+				"sortedIndex〔variable〕"
+			],
+			[
+				"da",
+				"dataset〔variable〕"
+			],
+			[
+				"__",
+				"__name__ == '__main__':〔variable〕"
+			],
+			[
+				"None",
+				"None〔keyword〕"
+			],
+			[
+				"g",
+				"generateRules〔function〕"
+			],
+			[
+				"c",
+				"createC1〔function〕"
+			],
+			[
+				"class",
+				"class_matchset〔variable〕"
+			],
+			[
+				"id_",
+				"id_index〔variable〕"
+			],
+			[
+				"w",
+				"write〔function〕"
+			],
+			[
+				"item",
+				"item_id〔variable〕"
+			],
+			[
+				"tet_item",
+				"test_items"
+			],
+			[
+				"No",
+				"None〔keyword〕"
+			],
+			[
+				"v",
+				"vbeta"
+			],
+			[
+				"ND",
+				"NDsum〔variable〕"
+			],
+			[
+				"foo",
+				"foo2"
+			],
+			[
+				"thr",
+				"threads"
+			],
+			[
+				"i",
+				"i_range"
+			],
+			[
+				"t",
+				"t_start"
+			],
+			[
+				"cut",
+				"cut_words〔variable〕"
+			],
+			[
+				"f",
+				"features"
+			],
+			[
+				"m",
+				"model"
+			],
+			[
+				"sp",
+				"split('\\t"
+			],
+			[
+				"u",
+				"user_data_temp"
+			],
+			[
+				"co",
+				"comment_count"
+			],
+			[
+				"user_",
+				"user_data_temp"
+			],
+			[
+				"user",
+				"user_data_temp〔variable〕"
+			],
+			[
+				"weibo",
+				"weibo_data_temp〔variable〕"
+			],
+			[
+				"wei",
+				"weibo_data"
+			],
+			[
+				"py",
+				"pyplot〔module〕"
+			],
+			[
+				"mat",
+				"matplotlib〔module〕"
+			],
+			[
+				"kfkd",
+				"kfkd_cnn_specialists〔module〕"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"img",
+				"imgs〔variable〕"
+			],
+			[
+				"fr",
+				"fromarray"
+			],
+			[
+				"load",
+				"load2d〔module〕"
+			],
+			[
+				"plot",
+				"plotloss〔function〕"
+			],
+			[
+				"net",
+				"net_cnn"
+			],
+			[
+				"a",
+				"AdjustVariable〔class〕"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"ra",
+				"raw_input〔function〕"
+			],
+			[
+				"layer",
+				"layer_name〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "code.py",
+			"settings":
+			{
+				"buffer_size": 1012,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "openre",
+		"selected_items":
+		[
+			[
+				"openre",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"sublime",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+			"from matplotlib import pyplot",
+			"print",
+			"import kfkd.py",
+			"import kfkd",
+			"kfkd.py",
+			"python",
+			"run",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"packagecontrol.io",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/python_projects/SF crime classification/code"
+	],
+	"file_history":
+	[
+		"/C/Users/gan/Desktop/springer.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/cx_Freeze/__init__.py",
+		"/E/python_projects/SF crime classification/code/code.py",
+		"/F/POA/code/server.py",
+		"/C/Users/gan/Desktop/server.py",
+		"/E/python_projects/weibo_predict/lda_multi_cpu.py",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/numpy/__init__.py",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/Pylinter/Pylinter.sublime-settings",
+		"/E/POA/code/testPOA.py",
+		"/E/POA/code/sim_input_gen.py",
+		"/E/POA/data/terminalinfo.txt",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/json/__init__.py",
+		"/E/POA/code/hehe.java",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/Java/JavaC.sublime-build",
+		"/C/Users/gan/Desktop/hehe.java",
+		"/C/Users/gan/Desktop/[shell_cmd",
+		"/C/Users/gan/Desktop/[path",
+		"/C/Program Files/Java/jre1.8.0_60/bin/runJava.bat",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/pickle.py",
+		"/E/POA/code/poa.py",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/ipy_repl.py",
+		"/E/python_projects/basic_ml_practice/k-neighbors/kdtree.py",
+		"/C/Users/gan/workspace/mechine learning practice/Ch03/trees.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/tree/tree.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/neighbors/classification.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/neighbors/graph.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/neighbors/kde.py",
+		"/C/Users/gan/workspace/mechine learning practice/Ch06/notLinSeperable.py",
+		"/C/Users/gan/workspace/mechine learning practice/Ch06/svmMLiA.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/decomposition/sparse_pca.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/sklearn/decomposition/pca.py",
+		"/E/python_projects/clothe_match/pca_cluster.py",
+		"/E/python_projects/clothe_match/apriori/apriori_shell.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/feature_extraction/text.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/utils/sparsetools/_graph_validation.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/utils/sparsefuncs.py",
+		"/E/python_projects/clothe_match/arrange_matchset.py",
+		"/E/python_projects/clothe_match/fpgrowth/fpgrowth_shell.py",
+		"/E/python_projects/clothe_match/user_history.py",
+		"/E/python_projects/clothe_match/fpgrowth/fpGrowth.py",
+		"/C/Users/gan/workspace/mechine learning practice/Ch14/svdRec.py",
+		"/E/python_projects/clothe_match/fpgrowth/apriori_shell.py",
+		"/E/python_projects/clothe_match/apriori/apriori.py",
+		"/E/python_projects/clothe_match/classify_pics.py",
+		"/E/python_projects/clothe_match/lda.py",
+		"/E/python_projects/clothe_match/check_index.py",
+		"/E/python_projects/clothe_match/resize_pic.py",
+		"/C/Users/gan/Desktop/resize_pic.py",
+		"/E/python_projects/clothe_match/cluster_pic.py",
+		"/E/python_projects/weibo_predict/extra_features.py",
+		"/E/python_projects/weibo_predict/wb_pre.py",
+		"/E/python_projects/chuanyidapei/image_test.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/feature_extraction/image.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/lda.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/decomposition/pca.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/cluster/setup.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/skimage/filter/__init__.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/feature_extraction/tests/test_image.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/feature_extraction/tests/test_text.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/feature_extraction/tests/__init__.py",
+		"/E/python_projects/chuanyidapei/lda.py",
+		"/E/python_projects/leetcode/add_digits.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/scipy/signal/filter_design.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/scipy/signal/benchmarks/bench_convolve2d.py",
+		"/C/Users/gan/Desktop/scipy_test.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/scipy/signal/tests/test_array_tools.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/scipy/signal/signaltools.py",
+		"/E/python_projects/weibo_predict/lda.py",
+		"/E/python_projects/weibo_predict/train.py",
+		"/E/python_projects/weibo_predict/theanotest.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/codecs.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/theano-0.7.0-py2.7.egg/theano/tensor/__init__.py",
+		"/E/python_projects/weibo_predict/setting.conf",
+		"/C/Users/gan/Desktop/class_test.py",
+		"/E/python_projects/weibo_predict/stop.txt",
+		"/E/python_projects/weibo_predict/settings_multicpu.conf",
+		"/C/Users/gan/Desktop/thread_test.py",
+		"/C/Users/gan/Desktop/test.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/multiprocessing/__init__.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/Queue.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/feature_extraction/stop_words.py",
+		"/E/python_projects/weibo_predict/data/train.dat",
+		"/E/python_projects/weibo_predict/logging.conf",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/Theano-0.7.0-py2.7.egg/theano/scalar/basic.py",
+		"/C/Users/gan/workspace/facialkeypointsdetection/kfkd_cnn.py",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/Pylinter/Default (Windows).sublime-keymap",
+		"/E/python_projects/weibo_predict/read_feature.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/jieba/analyse/tfidf.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/jieba/__init__.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/csv.py",
+		"/C/Users/gan/workspace/facialkeypointsdetection/submit_csv.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/jieba/analyse/__init__.py",
+		"/E/python_projects/weibo_predict/hehe.py",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/Python PEP8 Autoformat/Default (Windows).sublime-keymap",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeGDB/Default.sublime-keymap",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/jieba/analyse/textrank.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/jieba/analyse/analyzer.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/nolearn/lasagne.py",
+		"/C/Users/gan/workspace/facialkeypointsdetection/submit_csv_specilists.py",
+		"/C/Users/gan/workspace/facialkeypointsdetection/kfkd_cnn_specialists.py",
+		"/C/Users/gan/workspace/facialkeypointsdetection/kfkd_cnn_3.py",
+		"/C/Users/gan/workspace/facialkeypointsdetection/kfkd_basic.py",
+		"/C/Users/gan/workspace/facialkeypointsdetection/pil_test.py",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/gan/workspace/facialkeypointsdetection/kfkdtest.py",
+		"/C/Users/gan/workspace/facialkeypointsdetection/y_pred.pkl",
+		"/C/Users/gan/workspace/facialkeypointsdetection/test.py",
+		"/C/Users/gan/workspace/facialkeypointsdetection/kfkd.py",
+		"/C/Users/gan/workspace/facialkeypointsdetection/opencv_test.py",
+		"/C/Users/gan/workspace/facialkeypointsdetection/csv_test.py",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/pickle.py",
+		"/C/Users/gan/workspace/facialkeypointsdetection/readmat.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/lasagne/layers/__init__.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/lasagne/updates.py",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/matplotlib/pyplot.py",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-build",
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"5",
+			"10",
+			"vector",
+			"分享",
+			"stop",
+			"*",
+			"set_stop_words",
+			"toggle",
+			"心灵",
+			"鸡汤",
+			"reader",
+			"class",
+			"class reader",
+			"writer",
+			"for",
+			"**",
+			"layer_factory",
+			"eval_size",
+			"X",
+			"lasagne",
+			"load",
+			"figure",
+			"p",
+			"pyt",
+			"python",
+			"ctrl+shift+b"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "code.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								338,
+								338
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.63630806846,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "code.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
