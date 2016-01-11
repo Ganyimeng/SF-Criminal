@@ -283,7 +283,7 @@
 			"file": "code.py",
 			"settings":
 			{
-				"buffer_size": 1012,
+				"buffer_size": 996,
 				"line_ending": "Windows"
 			}
 		}
@@ -583,15 +583,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1012,
+						"buffer_size": 996,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								338,
-								338
+								323,
+								323
 							]
 						],
 						"settings":

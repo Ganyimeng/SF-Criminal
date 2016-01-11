@@ -9,7 +9,7 @@ from pandas import read_csv
 
 data = read_csv(u'..\\train.csv')
 print data['Dates'][:100]
-print 'git test'
+
 # data = []
 # labels = []
 
