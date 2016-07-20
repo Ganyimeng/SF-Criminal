@@ -4,6 +4,70 @@
 		"selected_items":
 		[
 			[
+				"mo",
+				"model2"
+			],
+			[
+				"class",
+				"class_weight=cx"
+			],
+			[
+				"cl",
+				"class_weight〔variable〕"
+			],
+			[
+				"cla",
+				"class_weight"
+			],
+			[
+				"res",
+				"resY"
+			],
+			[
+				"vali",
+				"validation〔variable〕"
+			],
+			[
+				"train",
+				"train_data"
+			],
+			[
+				"n",
+				"nodes"
+			],
+			[
+				"max",
+				"max_depth"
+			],
+			[
+				"_",
+				"_tree"
+			],
+			[
+				"y_",
+				"y_test"
+			],
+			[
+				"y",
+				"y_test"
+			],
+			[
+				"x",
+				"x_train"
+			],
+			[
+				"min",
+				"minX〔variable〕"
+			],
+			[
+				"read",
+				"readlines〔function〕"
+			],
+			[
+				"date",
+				"date0"
+			],
+			[
 				"tm",
 				"tm_sec"
 			],
@@ -68,10 +132,6 @@
 				"numTerminal〔variable〕"
 			],
 			[
-				"res",
-				"resaults〔variable〕"
-			],
-			[
 				"nom",
 				"normal〔module〕"
 			],
@@ -130,10 +190,6 @@
 			[
 				"c",
 				"createC1〔function〕"
-			],
-			[
-				"class",
-				"class_matchset〔variable〕"
 			],
 			[
 				"id_",
@@ -283,8 +339,26 @@
 			"file": "code.py",
 			"settings":
 			{
-				"buffer_size": 996,
+				"buffer_size": 4721,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sfcriminal.py",
+			"settings":
+			{
+				"buffer_size": 7061,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": ">>> log_loss(validation['crime'], predicted2)\n\n2.6008183392695705\n>>> >>> ",
+			"settings":
+			{
+				"buffer_size": 74,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"scratch": true
 			}
 		}
 	],
@@ -382,10 +456,37 @@
 	},
 	"expanded_folders":
 	[
-		"/E/python_projects/SF crime classification/code"
+		"/E/python_projects/SF_crime_classification/code"
 	],
 	"file_history":
 	[
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/sklearn/decomposition/pca.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.179/tree.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/tree/setup.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.953/setup.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/sklearn/tree/tree.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/sklearn/tree/__init__.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.777/tree.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.847/tree.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/tree/tree.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.322/setup.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.243/tree.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.933/setup.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.354/setup.py",
+		"/D/Desktop/tree/setup.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/utils/arpack.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.356/setup.py",
+		"/E/python_projects/facial keypoints detection/kfkd_cnn.py",
+		"/C/Users/gan/AppData/Local/Temp/Rar$DIa0.294/__init__.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/tree_with_pruncing/tree.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/tree/tree_with_pruncing.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/tree_with_pruncing/setup.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/setup.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/tree/__init__.py",
+		"/E/POA/code/POAServer/POAServer.py",
+		"/E/POA/code/POAServer/poa.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/pandas/core/frame.py",
+		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/pandas/io/parsers.py",
 		"/C/Users/gan/Desktop/springer.py",
 		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/cx_Freeze/__init__.py",
 		"/E/python_projects/SF crime classification/code/code.py",
@@ -414,14 +515,12 @@
 		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/ipy_repl.py",
 		"/E/python_projects/basic_ml_practice/k-neighbors/kdtree.py",
 		"/C/Users/gan/workspace/mechine learning practice/Ch03/trees.py",
-		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/tree/tree.py",
 		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/neighbors/classification.py",
 		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/neighbors/graph.py",
 		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/neighbors/kde.py",
 		"/C/Users/gan/workspace/mechine learning practice/Ch06/notLinSeperable.py",
 		"/C/Users/gan/workspace/mechine learning practice/Ch06/svmMLiA.py",
 		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/decomposition/sparse_pca.py",
-		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/sklearn/decomposition/pca.py",
 		"/E/python_projects/clothe_match/pca_cluster.py",
 		"/E/python_projects/clothe_match/apriori/apriori_shell.py",
 		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/sklearn/feature_extraction/text.py",
@@ -488,36 +587,11 @@
 		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
 		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeGDB/Default.sublime-keymap",
 		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
-		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
-		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/jieba/analyse/textrank.py",
-		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/Lib/site-packages/jieba/analyse/analyzer.py",
-		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/nolearn/lasagne.py",
-		"/C/Users/gan/workspace/facialkeypointsdetection/submit_csv_specilists.py",
-		"/C/Users/gan/workspace/facialkeypointsdetection/kfkd_cnn_specialists.py",
-		"/C/Users/gan/workspace/facialkeypointsdetection/kfkd_cnn_3.py",
-		"/C/Users/gan/workspace/facialkeypointsdetection/kfkd_basic.py",
-		"/C/Users/gan/workspace/facialkeypointsdetection/pil_test.py",
-		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
-		"/C/Users/gan/workspace/facialkeypointsdetection/kfkdtest.py",
-		"/C/Users/gan/workspace/facialkeypointsdetection/y_pred.pkl",
-		"/C/Users/gan/workspace/facialkeypointsdetection/test.py",
-		"/C/Users/gan/workspace/facialkeypointsdetection/kfkd.py",
-		"/C/Users/gan/workspace/facialkeypointsdetection/opencv_test.py",
-		"/C/Users/gan/workspace/facialkeypointsdetection/csv_test.py",
-		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
-		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/pickle.py",
-		"/C/Users/gan/workspace/facialkeypointsdetection/readmat.py",
-		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/lasagne/layers/__init__.py",
-		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/lasagne/updates.py",
-		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
-		"/C/SciSoft/WinPython-64bit-2.7.9.4/python-2.7.9.amd64/lib/site-packages/matplotlib/pyplot.py",
-		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-build",
-		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings"
+		"/C/Users/gan/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 43.0
 	},
 	"find_in_files":
 	{
@@ -528,9 +602,25 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
+			"array2d",
+			"check_array",
+			"prune",
+			"pruning",
+			"prunc",
+			"array2d",
+			"_tree",
+			"Tree",
+			"tree_",
+			"_tree",
+			"draw",
+			"export",
+			"graphviz",
+			"fit",
+			"length",
+			"len",
 			"5",
 			"10",
 			"vector",
@@ -574,7 +664,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -583,21 +673,123 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 996,
+						"buffer_size": 4721,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								323,
-								323
+								1850,
+								1850
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sfcriminal.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3671,
+								3672
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 74,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_indent": false,
+							"default_dir": "E:\\python_projects\\SF_crime_classification\\code",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "c589879911b446afb9cec91ffd8a3fe0",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-i",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -606,11 +798,6 @@
 					"stack_index": 0,
 					"type": "text"
 				}
-			]
-		},
-		{
-			"sheets":
-			[
 			]
 		}
 	],
@@ -642,7 +829,7 @@
 		"cols":
 		[
 			0.0,
-			0.63630806846,
+			0.599633251834,
 			1.0
 		],
 		"rows":
@@ -690,7 +877,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
